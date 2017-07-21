@@ -3,7 +3,7 @@
 * Reads and prints several OBD-II PIDs value
 * Distributed under GPL v2.0
 * Visit http://freematics.com for more information
-* Written by Stanley Huang <stanleyhuangyc@gmail.com>
+* Written by Stanley Huang <stanleyhuangyc@gmail.com>ss
 *************************************************************************/
 
 
